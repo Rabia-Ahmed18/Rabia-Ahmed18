@@ -16,7 +16,7 @@ I'm a **Full Stack Developer** based in **Karachi, Pakistan**, passionate about 
 - 🌱 Deepening my knowledge of **TypeScript**, **Next.js**, and **REST APIs**
 - 💡 I enjoy building **CLI tools**, **web apps**, and exploring **AI-powered products**
 - 🎯 Goal: Land a role as a **Junior/Mid Frontend or Full Stack Developer**
-- 📫 Reach me at: **[LinkedIn](#)** | **rabia.ahmed18.dev@gmail.com** *(update with your real email)*
+- 📫 Reach me at: **[LinkedIn](#)** | **rabiaahmed16111999@gmail.com** 
 - ⚡ Fun fact: I've built 73+ projects — quantity builds muscle, quality builds careers!
 
 ---
@@ -47,7 +47,7 @@ I'm a **Full Stack Developer** based in **Karachi, Pakistan**, passionate about 
 
 ## 🚀 Featured Projects
 
-> *(Pin these 6 repos on your profile for maximum visibility)*
+
 
 | Project | Description | Tech | Live |
 |--------|-------------|------|------|
@@ -83,12 +83,6 @@ I'm a **Full Stack Developer** based in **Karachi, Pakistan**, passionate about 
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rabia-Ahmed18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4&rank=A,AA,AAA,S,SS,SSS,SECRET,B,C" alt="GitHub Trophies" />
-</div>
-
----
 
 ## 📬 Let's Connect
 
