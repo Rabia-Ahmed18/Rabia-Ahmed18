@@ -91,7 +91,7 @@ I'm a **Full Stack Developer** based in **Karachi, Pakistan**, passionate about 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rabia-ahmed-14442a2b6/?skipRedirect=true)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](www.Rabiaahmed16111999@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rabia-Ahmed18)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://personal-portfolio-ruby-kappa.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://personal-portfolio-vphy.vercel.app/)
 
 </div>
 
